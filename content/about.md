@@ -11,3 +11,11 @@ Conciliatorics explores the tension between structured, top-down systems and eme
 
 ## A Philosophical Framework for DAOs
 As the foundation of Lokapal’s work, Conciliatorics provides the deeper theoretical basis for understanding decentralized governance. It serves as a guiding lens for DAO design, governance security, and systemic resilience.
+
+## Stay Connected
+
+Feel free to reach out for questions and suggestions:
+
+🔹[**Contact Page**](../contact/)
+
+🔹[**Github Discussions**](https://github.com/lokapal-xyz/foundations/discussions)
