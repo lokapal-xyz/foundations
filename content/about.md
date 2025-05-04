@@ -30,8 +30,8 @@ Feel free to reach out for questions and suggestions:
 
 At Lokapal, we believe in full transparency about our content creation process. We have utilized artificial intelligence (AI) tools during the development of this educational resource to:
 
-- Assist in content drafting
-- Provide initial structural and grammatical suggestions
+- Assist in content alignment
+- Provide styling and grammatical suggestions
 - Help refine and polish explanatory materials
 - Support research and information synthesis
 
