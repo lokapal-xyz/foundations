@@ -21,13 +21,13 @@ The following step combines each previous element to form concrete **observation
 | **Top-Down** | Assessment | Awareness |
 | **Bottom-Up** | Relevance | Concentration |
 
-When we reached a similar stage with Discernment, we propagated those concepts into separate discernment children. With Observation, we'll intersect these observation forms into one condensed type named **Presence**.
+When we reached a similar stage with Discernment, we propagated those concepts into separate discernment children. On this new cuadrant, we'll intersect these observation forms into one condensed type named **Presence**.
 
 **Assessment** is the ability to place ourselves as judges of the world, determining what is right or wrong, suitable or inconvenient. But we can also use **awareness** to contemplate the entire landscape without judgement. When we integrate assessment and awareness we encounter **acceptance** towards the world: the state of being capable of holistic attention and appropriate judgement. 
 
 - Assessment ^ Awareness = Acceptance
 
-The world is constantly expressing itself in multiple manifestations. We are compelled to assign a **relevance** order to those manifestations, but we can also **concentrate** in one aspect of the world that is outside our immediate judgement. When we integrate relevance and concentration we develop **alertness**: the state of open concentration and available relevance.
+The world is constantly expressing itself in multiple manifestations. We feel compelled to assign a **relevance** order to those manifestations, but we can also **concentrate** in one aspect of the world that is outside our immediate judgement. When we integrate relevance and concentration we develop **alertness**: the state of open concentration and available relevance.
 
 - Relevance ^ Concentration = Alertness
 
@@ -35,7 +35,7 @@ With these integrated observation forms we are reconciling the limitations of th
 
 - Acceptance ^ Alertness = Presence
 
-The state of presence is constantly being disrupted by inner and outer stimuli. So, instead of treating presence as a *final destination*, we can approach it as a *resting point*—a state we can always return to, and not to pressure ourselves to remain in perpetually. When presence is disrupted, we can allow our observation to drift away, or we can return our consciousness to the state of presence. Let's use an **observation breathing cycle** to represent this constant motion:
+The state of presence is constantly being disrupted by inner and outer stimuli. So, instead of treating presence as a *final destination*, we can approach it as a *resting point* — a state we can always return to, and not to pressure ourselves to remain in perpetually. When presence is disrupted, we can allow our observation to drift away, or we can return our consciousness to the state of presence. Let's use an **observation breathing cycle** to represent this constant motion:
 
 ```mermaid
 ---

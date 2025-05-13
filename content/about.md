@@ -8,9 +8,9 @@ title: 'About Conciliatorics'
 
 ## About the author
 
-Conciliatorics is a personal research project by **Ricardo Pintos**. It draws from his experiences as a professional optician and physical therapist, his creative process as a musician and dancer, and his analytical path as a philosopher and teacher. Each of these domains revealed clues about a deeper need for reconciliation between the intrinsic and the interstitial.
+Conciliatorics is a personal research project by **Ricardo Pintos**. It draws from his experiences as a professional optician and physical therapist, his creative process as a musician and composer, and his analytical path as a philosopher and teacher. Each of these domains revealed clues about a deeper need for reconciliation between the intrinsic and the interstitial.
 
-Sparse notes on this synthesis gradually evolved—first into isolated ideas, and eventually into an integrated framework. This journey is ongoing. Much refinement and research still lie ahead. Ricardo remains committed to expanding these ideas and applying them to the development of decentralized systems.
+Sparse notes on this synthesis gradually evolved—first into isolated ideas, and eventually into an integrated framework. This journey is ongoing. Much refinement and research still lie ahead. Pintos remains committed to expanding these ideas and applying them to the development of decentralized systems.
 
 ## A Philosophical Framework for DAOs
 

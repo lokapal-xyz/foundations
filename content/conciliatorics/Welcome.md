@@ -7,9 +7,7 @@ weight: 1
 
 *Conciliatorics* is a philosophical framework for thinking about systems—how they behave, how they change, and how we interact with them.
 
-This project explores the dynamic between what is *interstitial* (emerging between things) and what is *intrinsic* (belonging to things themselves). It looks at how we shape systems and how systems shape us. From behavior and structure to status and synthesis, each part builds on the last to offer a deeper understanding of complexity.
-
-The approach is analytical but grounded, theoretical yet practical. Whether you're interested in philosophy, systems thinking, governance, or decentralization, the concepts here aim to offer useful tools for reflection and application.
+This project explores the dynamic between what is *interstitial* (emerging between things) and what is *intrinsic* (belonging to things themselves). It looks at how we shape systems and how systems shape us. Whether you're interested in philosophy, systems thinking, governance, or decentralization, the concepts here aim to offer useful tools for reflection and application.
 
 You don’t need a background in philosophy or systems theory to read this. Just curiosity, and maybe a bit of patience. You can visit the [**Glossary page**](../../glossary/) any time to review terminology and symbolic representations. 
 

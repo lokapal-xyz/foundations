@@ -5,7 +5,7 @@ title: 'Mixed Synthesis'
 weight: 25_000
 ---
 
-What we just discussed regarding organic and instrumental synthesis also applies to mixed synthesis. Our main issue is how we handle the joined presence of both interstitial longings. Remember that each longing predisposes the opposite pole of their parallel attribute pair (e.g. functionality predispose imperdurability). So, a mixed state that presents both longings simultaneously reflects an interstitial potential—one awaiting a dominant longing to take charge. We'll call this potential state the **raw form** of mixed synthesis:
+What we just discussed regarding organic and instrumental synthesis also applies to mixed synthesis. Our main issue is how we handle the joined presence of both interstitial longings. Remember that each longing predisposes the opposite pole of their parallel attribute pair (e.g. functionality predispose imperdurability). So, a mixed state that presents both longings simultaneously, reflects an interstitial potential—one awaiting a dominant longing to take charge. We'll call this potential state the **raw form** of mixed synthesis:
 
 - **Mixed Synthesis (Raw form)**: 
   - {[I≢L → (I≡ ^ I≢)] ^ [C≡L → (C≡ ^ C≢)]} → {iD ≡ iO ≡ iR ≡ iE} = mS
@@ -36,7 +36,7 @@ For our first potential choice, let's return to our previous reference of the **
 
 With our second potential choice, we can use a structure closer to home: a **presidential term**. Most nations agree that the highest political positions in government must be held for a limited time. There are contextual and historical differences in each case, but there is a common reticence to allow perpetual terms. Even if a politician remains popular (which would imply functional governance) and could win an extra term, the system itself blocks it. Therefore, any government must **reconcile** political representation with societal needs and wants by accepting imperdurable terms.
 
-The first choice is labeled **Unification Synthesis**, while the second choice is called **Conciliation Synthesis**. On the context of our examples, unification synthesis centralizes authority to preserve systemic durability, even at the cost of representation. Conversely, conciliation synthesis favors responsive representation, accepting its temporal limits as part of systemic renewal.
+The first choice is labeled **Unification Synthesis**, while the second choice is called **Conciliation Synthesis**. On the context of our examples, unification synthesis centralizes authority to preserve systemic durability, even at the cost of proper representation. Conversely, conciliation synthesis favors responsive representation, accepting its temporal limits as part of systemic renewal.
 
 | **MIXED SYNTHESIS** | **SYMBOLIC REPRESENTATION** |
 |---|---|

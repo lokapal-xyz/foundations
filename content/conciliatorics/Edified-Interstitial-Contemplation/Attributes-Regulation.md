@@ -7,7 +7,7 @@ weight: 8_500
 
 The essence of inventive edification is to proliferate until a beneficial outcome is reached. However, without a way to guide that exploration, the process can easily degenerate. We begin our EIC journey with a concrete analytical regulation to help identify and minimize unproductive or harmful outcomes.
 
-- **ATTRIBUTES REGULATION**: EIC step that provides the rule set for the attributes structure and status exploration.
+- **ATTRIBUTES REGULATION**: EIC step that provides the rule set to explore the attributes structure and status.
 
 ```mermaid
 flowchart TB

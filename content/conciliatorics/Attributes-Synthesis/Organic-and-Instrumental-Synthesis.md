@@ -28,4 +28,4 @@ As you can see, these symbolic representations are starting to be long and confu
 - **Organic Discernment (Simplified Form)**: I≢L → iD
 - **Instrumental Observation (Simplified Form)**: C≡L → iO
 
-These shorter forms go straight to the point. And because elements like physiological longings (I≢L) and anatomical quadrants (iD) don't interact in other contexts, we won't get into symbolic conflicts by using them. We'll explore potential implementations of organic and instrumental synthesis at another time, since these simplified expressions provide only the initial conditions. The full behavioral implications of these syntheses will be explored separately. Let's move on with the last synthesis form.
+These shorter forms go straight to the point. And because elements like physiological longings (I≢L) and anatomical quadrants (iD) don't interact in other contexts, we won't get into symbolic conflicts by using them. We'll explore potential implementations of organic and instrumental synthesis at another time, since these simplified expressions are just the tip of the iceberg. Let's move on with the last synthesis form.

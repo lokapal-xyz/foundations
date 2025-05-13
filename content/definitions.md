@@ -68,7 +68,7 @@ title: 'Definitions'
 
 - **ATTRIBUTES DYNAMICS**: An EIC model designed to promote analytical exploration and integration of attributes.
 
-- **ATTRIBUTES REGULATION**: EIC step that provides the rule set for the attributes structure and status exploration.
+- **ATTRIBUTES REGULATION**: EIC step that provides the rule set to explore the attributes structure and status.
 
 - **ATTRIBUTES STRUCTURE**: EIC step that explores the interstitial anatomy components of Behavior Dynamics.
 

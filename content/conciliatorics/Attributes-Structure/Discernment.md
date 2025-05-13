@@ -9,7 +9,7 @@ We reached the first EIC compartment that ties directly with everyday life. The 
 
 ---
 
-Interstitial discernment is a behavior performed by a member. This discernment can relate differently to that member's identity—either **bounded** (dependent on their perspective) or **non-bounded** (detached from their presence). We'll adapt this dynamic to more familiar terminology:
+Interstitial discernment is a behavior performed by a member. This discernment can relate to that member's identity in different ways — either **bounded** (dependent on their perspective) or **non-bounded** (detached from their presence). We'll adapt this dynamic to more familiar terminology:
 
 - **Non-bounded Discernment**: Objectivity
 - **Bounded Discernment**: Subjectivity

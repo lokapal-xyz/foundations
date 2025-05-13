@@ -9,7 +9,7 @@ The last foundational concept we want to establish before opening the analytical
 
 - **SYSTEMIC JURISDICTION**: The bounded environment that contains Conciliatorics components.
 
-This concept retroactively enhances the terminology of previous chapters. For example, the four members of the Parcels Council each operate within their own *systemic jurisdiction*, whose boundaries are defined by the complementarity between their inventive approach and inventive focus. We now extend this terminology to the components of Attributes Dynamics as well:
+This concept retroactively enhances the terminology of previous chapters. For example, the four members of the Parcels Council each operate within their own *systemic jurisdiction*, whose boundaries are defined by the complementarity between their inventive approach and inventive position. We now extend this terminology to the components of Attributes Dynamics as well:
 
 - **ATTRIBUTE JURISDICTION**: The bounded environment that contains Attributes Dynamics components.
 
